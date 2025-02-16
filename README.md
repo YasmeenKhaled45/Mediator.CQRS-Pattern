@@ -1,7 +1,9 @@
 🚀 CQRS API in Domain-Centric Design Architecture
+
 This project showcases a CQRS API built with a domain-centric design architecture using .NET 8 and the Mediator pattern with a request pipeline.
 
 ✨ Features
+
 ✅ CQRS Implementation – Clearly separates read and write operations for better maintainability and scalability.
 ✅ Domain-Centric Design – Emphasizes the business domain and core logic, ensuring a clean and modular architecture.
 ✅ Mediator with Request Pipeline – Implements the Mediator pattern to manage requests and responses efficiently, allowing a structured request-handling pipeline.
