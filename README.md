@@ -15,7 +15,9 @@ A structured request pipeline provides a unified entry point, streamlining how r
 - Centralized Middleware Dependencies
 Mediator acts as a middleware, handling cross-cutting concerns such as:
 🔹 Logging – Maintain a detailed request log effortlessly.
+
 🔹 Validation – Ensure data integrity before execution.
+
 🔹 Authorization – Control access with a centralized approach.
 
 By centralizing these concerns, we reduce code duplication and enhance maintainability.
