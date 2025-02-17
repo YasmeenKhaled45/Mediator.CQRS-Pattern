@@ -9,7 +9,7 @@ This project showcases a CQRS API built with a domain-centric design architectur
 ✅ Mediator with Request Pipeline – Implements the Mediator pattern to manage requests and responses efficiently, allowing a structured request-handling pipeline.
 
 - Why Use a Request Pipeline with Mediator?
-📌 Simplified Request Handling
+ Simplified Request Handling
 A structured request pipeline provides a unified entry point, streamlining how requests are processed.
 
 - Centralized Middleware Dependencies
